@@ -41,4 +41,8 @@ http://dbunit.sourceforge.net/
 
 `git remote add origin git@github.com:danielso2007/estudo_rest_jersey_spring_scl.git`
 
+<<<<<<< HEAD
 `git push -u origin master`
+=======
+`git push -u origin master`
+>>>>>>> 34f46633ffa1996261f004b66ac13985ae914257
